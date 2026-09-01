@@ -1,13 +1,16 @@
 # antiburn
 
-antiburn builds local-first tools that make AI coding-agent work visible and
-understandable without sending session content to a project backend.
+We build local tools to help everyone waste less when coding with agents.
 
 ## Projects
 
-- [antiburn](https://github.com/antiburn/antiburn) is a desktop application and
-  local engine for coding-agent activity, session analysis, provider usage, and
-  API-equivalent cost estimates.
+[antiburn](https://github.com/antiburn/antiburn) is a desktop app which checks your sessions against detailed burn categories, giving you the tools to hit your limits less.
+
+## Background
+
+We had comprehensive anonymised data through our work on [Cadence](https://teamcadence.ai/).
+
+Gigabytes of coding agent logs gave us patterns of usage and burn that no-one else has. We realised everyone needs to benefit from that, and incorporated those patterns into antiburn.
 
 ## Get involved
 
