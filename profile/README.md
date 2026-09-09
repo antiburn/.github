@@ -15,6 +15,7 @@ Gigabytes of coding agent logs gave us patterns of usage and burn that no-one el
 ## Get involved
 
 - Read the [project overview](https://github.com/antiburn/antiburn#readme).
+- Join the [antiburn Slack](https://antiburn.ai/slack) for questions and fixes.
 - Follow the [contribution guide](https://github.com/antiburn/antiburn/blob/main/CONTRIBUTING.md).
 - Request support through the [public support paths](https://github.com/antiburn/antiburn/blob/main/SUPPORT.md).
 - Report vulnerabilities through the [private security process](https://github.com/antiburn/antiburn/security/policy).
