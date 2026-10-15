@@ -14,7 +14,9 @@ Gigabytes of coding agent logs gave us patterns of usage and burn that no-one el
 
 ## Get involved
 
-- Read the [project overview](https://github.com/antiburn/antiburn#readme).
+- Read the [project overview](https://github.com/antiburn/antiburn#readme) and the [docs](https://antiburn.com/docs/).
+- Tune your agent with the [config guides](https://antiburn.com/guides/) for Claude Code, Codex, and Pi.
+- Read what we've learned about token burn in [resources](https://antiburn.com/resources/).
 - Join the [antiburn Slack](https://antiburn.com/slack) for questions and fixes.
 - Follow the [contribution guide](https://github.com/antiburn/antiburn/blob/main/CONTRIBUTING.md).
 - Request support through the [public support paths](https://github.com/antiburn/antiburn/blob/main/SUPPORT.md).
