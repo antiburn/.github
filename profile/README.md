@@ -14,12 +14,12 @@ Gigabytes of coding agent logs gave us patterns of usage and burn that no-one el
 
 ## Get involved
 
-- Read the [project overview](https://github.com/antiburn/antiburn#readme) and the [docs](https://antiburn.com/docs/).
-- Tune your agent with the [config guides](https://antiburn.com/guides/) for Claude Code, Codex, and Pi.
-- Read what we've learned about token burn in [resources](https://antiburn.com/resources/).
-- Join the [antiburn Slack](https://antiburn.com/slack) for questions and fixes.
+- Read the [project overview](https://github.com/antiburn/antiburn#readme) and the [docs](https://antiburn.com/docs/?utm_source=github&utm_medium=profile&utm_campaign=org-readme).
+- Tune your agent with the [config guides](https://antiburn.com/guides/?utm_source=github&utm_medium=profile&utm_campaign=org-readme) for Claude Code, Codex, and Pi.
+- Read what we've learned about token burn in [resources](https://antiburn.com/resources/?utm_source=github&utm_medium=profile&utm_campaign=org-readme).
+- Join the [antiburn Slack](https://antiburn.com/slack/?utm_source=github&utm_medium=profile&utm_campaign=org-readme) for questions and fixes.
 - Follow the [contribution guide](https://github.com/antiburn/antiburn/blob/main/CONTRIBUTING.md).
 - Request support through the [public support paths](https://github.com/antiburn/antiburn/blob/main/SUPPORT.md).
 - Report vulnerabilities through the [private security process](https://github.com/antiburn/antiburn/security/policy).
 
-Official project information is available at [antiburn.com](https://antiburn.com).
+Official project information is available at [antiburn.com](https://antiburn.com/?utm_source=github&utm_medium=profile&utm_campaign=org-readme).
